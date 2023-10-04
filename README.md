@@ -32,4 +32,8 @@ sudo apt install ./"nom_du_ficher".deb
 
 2. Dans la barre de rechercher taper "PlatformIO", puis appuyez sur "install"
 
+3. Laissez l'installation se faire une fois terminée, un alien apparaitra sur la barre verticale de gauche.
+
+## Premier projet avec PlatformIO
+
 
