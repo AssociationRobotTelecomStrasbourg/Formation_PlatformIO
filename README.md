@@ -38,7 +38,7 @@ sudo apt install ./"nom_du_ficher".deb
 
 3. Laissez l'installation se faire une fois terminée, un alien apparaitra sur la barre verticale de gauche.
 
-## Premier projet avec PlatformIO
+## II. Premier projet avec PlatformIO
 
 1. Appuez sur l'alien présent sur la barre latérale puis cliquez sur "create new project"
 
@@ -83,3 +83,5 @@ sudo apt install ./"nom_du_ficher".deb
     - **platformio.ini** Le fichier de configuration de PlatformIO, spécifique au projet. Il est très utile et nous le modifierons dans le cadre des formations. Il permet notamment de modifier la vitesse de transmission du port série.
 
     ![repertoire et fichier main](./images/main_cpp.png)
+
+## Vous voilà prêt à débuter la formation !
