@@ -28,11 +28,11 @@ sudo apt install ./"nom_du_ficher".deb
 ```
 ### PlatformIO
 
-1. Ouvrer l'interface puis naviguer vers "Extensions" (Ctrl+shift+X)
+1. Ouvrez l'interface puis naviguer vers "Extensions" (Ctrl+shift+X)
 
     ![Panneau latéral de VSCode](./images/extension.png)
 
-2. Dans la barre de rechercher taper "PlatformIO", puis appuyez sur "install"
+2. Dans la barre de recherche tapez "PlatformIO", puis appuyez sur "install"
 
     ![Recherche extensions](./images/recherche.png)
 
@@ -44,7 +44,7 @@ sudo apt install ./"nom_du_ficher".deb
 
     ![Create new project button](./images/create_new_project.png)
 
-2. Un nouvel onglet s'ouvre sur VSCode, c'est l'onglet HOME de PlatformIO. C'est ici que l'on configure l'extension et lance de nouveau projets. cliquez sur "New project" en dessous "Quick Access"
+2. Un nouvel onglet s'ouvre sur VSCode, c'est l'onglet HOME de PlatformIO. C'est ici que l'on configure l'extension et lance de nouveaux projets. cliquez sur "New project" en dessous "Quick Access"
 
     ![PlatformIO Home](./images/home.png)
 
@@ -70,13 +70,13 @@ sudo apt install ./"nom_du_ficher".deb
 
     - **.vscode** De même, ne modifiez pas son contenu.
 
-    - **include** C'est ici qu'iront les fichiers header de vos fichiers sources. Le fichier "README" détail son utilisation mais les cours de C de première année sont maitrisés non ?
+    - **include** C'est ici qu'iront les fichiers header de vos fichiers sources. Le fichier "README" détaille son utilisation mais les cours de C de première année sont maitrisés non ?
 
-    - **lib** Les librairies que vous allez ajoutez avec PlatformIO seront présente ici. Il peut être intéressant de s'y rendre pour lire les exemple d'utilisation et les header des fonctions. Dans un premier temps ne modifiez pas manuellement son contenu.
+    - **lib** Les librairies que vous allez ajouter avec PlatformIO seront présentes ici. Il peut être intéressant de s'y rendre pour lire les exemples d'utilisation et les headers des fonctions. Dans un premier temps ne modifiez pas manuellement son contenu.
 
     - **src** Le répertoire principal, c'est ici que tous vos fichiers sources se trouveront. Pour l'instant il n'existe que le fichier main.cpp. Plus de ".ino" comme avec l'IDE Arduino. Ce sont des .cpp pour C++. Attention toutes les fonctionnalitées du C++ ne sont pas présentes. Oubliez "#include <iostream>" de toute façon où sont l'écran et le clavier ?
 
-    - **test** Ce répertoire sert à faire des tests et nous ne l'utiliseront pas dans les formations.
+    - **test** Ce répertoire sert à faire des tests de fonctionnalitées et nous ne l'utiliseront pas dans les formations.
 
     - **.gitignore** Le fichier qui permet à git de savoir quels fichiers surveiller et quels fichiers ignorer. Une formation git viendra dans les prochaines semaines.
 
